@@ -56,5 +56,6 @@
   "trouble.nvim": { "branch": "main", "commit": "03c1fbf518bef683422a3be9643c3da190903488" },
   "ts-comments.nvim": { "branch": "main", "commit": "8504d06d4f02e7ca6e65c635cef881cefba573d5" },
   "venv-selector.nvim": { "branch": "regexp", "commit": "542a38a4e673476119f6877eff8dce9a74142d49" },
-  "which-key.nvim": { "branch": "main", "commit": "b695114ddb251185625f61317317a39b67e80643" }
+  "which-key.nvim": { "branch": "main", "commit": "b695114ddb251185625f61317317a39b67e80643" },
+  "zig.vim": { "branch": "master", "commit": "54c216e5306a5c3878a60596aacb94dca8652ab9" }
 }
